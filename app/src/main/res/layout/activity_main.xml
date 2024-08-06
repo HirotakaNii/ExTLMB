@@ -17,5 +17,10 @@
     android:layout_gravity="center_horizontal"
     android:layout_margin="10sp"/>
 
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/idListaExercicios"
+    android:layout_margin="5dp"
 
 </LinearLayout>
